@@ -1,2 +1,2 @@
-# Gaoshan-Pan.io
+# Gaoshan-Pan.github.io
 This is a personal blog
